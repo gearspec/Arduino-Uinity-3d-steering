@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C21A3625-500C-D577-E3E0-E4DC4791DF9F}") = "test_arduino_steering", "Assembly-CSharp-firstpass.csproj", "{D6AE446A-8E22-7D20-3D29-DD9E40C87383}"
+EndProject
+Project("{C21A3625-500C-D577-E3E0-E4DC4791DF9F}") = "test_arduino_steering", "Assembly-CSharp.csproj", "{FE993C2A-ECAF-229A-4321-6A34046D3587}"
+EndProject
+Project("{C21A3625-500C-D577-E3E0-E4DC4791DF9F}") = "test_arduino_steering", "Assembly-CSharp-Editor.csproj", "{B132416E-F8FF-2EB2-865C-6840D62654A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6AE446A-8E22-7D20-3D29-DD9E40C87383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AE446A-8E22-7D20-3D29-DD9E40C87383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AE446A-8E22-7D20-3D29-DD9E40C87383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AE446A-8E22-7D20-3D29-DD9E40C87383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE993C2A-ECAF-229A-4321-6A34046D3587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE993C2A-ECAF-229A-4321-6A34046D3587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE993C2A-ECAF-229A-4321-6A34046D3587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE993C2A-ECAF-229A-4321-6A34046D3587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B132416E-F8FF-2EB2-865C-6840D62654A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B132416E-F8FF-2EB2-865C-6840D62654A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B132416E-F8FF-2EB2-865C-6840D62654A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B132416E-F8FF-2EB2-865C-6840D62654A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
